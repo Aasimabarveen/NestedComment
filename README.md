@@ -26,7 +26,7 @@ Users should be able to:
 ### Links
 
 - Solution URL:(https://github.com/Aasimabarveen/NestedComment)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: (https://aasimabarveen.github.io/NestedComment/)
 
 ## My process
 
